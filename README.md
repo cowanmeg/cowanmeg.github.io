@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+I'm a third year graduate student in computer science at the University of Washington advised by Luis Ceze. I am part of the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Saml](http://saml.cs.washington.edu/) labs.
 
-You can use the [editor on GitHub](https://github.com/cowanmeg/cowanmeg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Publications
+**TVM: An Automated End-to-End Optimizing Compiler for Deep Learning**  
+Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, **Meghan Cowan**, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, and Arvind Krishnamurthy  
+OSDI 2018 [To appear]() [project](https://tvm.ai) [github](https://github.com/dmlc/tvm)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Exploring Computation-Communication Tradeoffs in Camera Systems**
+Amrita Mazumdar, Armin Alaghi, Thierry Moreau, Sung Min Kim, **Meghan Cowan**, Luis Ceze, Mark Oskin, and Visvesh Sathe  
+IISWC 2017  [link](https://ieeexplore.ieee.org/document/8167775/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cowanmeg/cowanmeg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
