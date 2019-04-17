@@ -10,6 +10,6 @@ Amrita Mazumdar, Armin Alaghi, Thierry Moreau, Sung Min Kim, **Meghan Cowan**, L
 IISWC 2017  [link](https://ieeexplore.ieee.org/document/8167775/)
 
 ### Workshops
-**Towards Automatic Generation of Low Precision Deep Learning Operators
-**Meghan Cowan, Thierry Moreau, Tianqi Chen, and Luis Ceze
-MLPCD2 [link](https://sites.google.com/view/nips-2018-on-device-ml/home?authuser=0) (colocated with NeurIPS 2018) 
+**Towards Automatic Generation of Low Precision Deep Learning Operators**
+**Meghan Cowan**, Thierry Moreau, Tianqi Chen, and Luis Ceze
+MLPCD2 (colocated with NeurIPS 2018) [link](https://sites.google.com/view/nips-2018-on-device-ml/home?authuser=0) 
