@@ -1,6 +1,10 @@
-I'm a third year graduate student in computer science at the University of Washington advised by Luis Ceze. I am part of the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
+I'm a fourth year graduate student in computer science at the University of Washington advised by Luis Ceze. I am part of the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
 
 ### Publications
+**Automatic Generation of High-Performance Quantized Machine Learning Kernel**
+**Meghan Cowan**, Thierry Moreau, Tianqi Chen, James Bornholt, and Luis Ceze
+CGO 2020 
+
 **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning**  
 Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, **Meghan Cowan**, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, and Arvind Krishnamurthy  
 OSDI 2018 [link](https://www.usenix.org/conference/osdi18/presentation/chen) [project](https://tvm.ai) [github](https://github.com/dmlc/tvm)
