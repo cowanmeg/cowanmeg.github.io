@@ -1,8 +1,8 @@
 I'm a fourth year graduate student in computer science at the University of Washington advised by Luis Ceze. I am part of the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
 
 ### Publications
-**Automatic Generation of High-Performance Quantized Machine Learning Kernel**
-**Meghan Cowan**, Thierry Moreau, Tianqi Chen, James Bornholt, and Luis Ceze
+**Automatic Generation of High-Performance Quantized Machine Learning Kernels**  
+**Meghan Cowan**, Thierry Moreau, Tianqi Chen, James Bornholt, and Luis Ceze  
 CGO 2020 
 
 **TVM: An Automated End-to-End Optimizing Compiler for Deep Learning**  
