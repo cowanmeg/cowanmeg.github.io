@@ -1,6 +1,10 @@
 I'm a fourth year graduate student in computer science at the University of Washington advised by Luis Ceze. I am part of the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
 
 ### Publications
+**Riptide: Fast End-to-End Binarized Neural Networks**   
+Josh Fromm, **Meghan Cowan**, Matthai Philipose, Luis Ceze, and Shwetak Patel  
+MLSys 2020
+
 **Automatic Generation of High-Performance Quantized Machine Learning Kernels**  
 **Meghan Cowan**, Thierry Moreau, Tianqi Chen, James Bornholt, and Luis Ceze  
 CGO 2020 
