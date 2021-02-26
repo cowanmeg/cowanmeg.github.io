@@ -3,7 +3,7 @@ I'm a fourth year graduate student in computer science at the University of Wash
 ### Publications
 **Porcupine: A Synthesizing Compiler for Vectorized Homomorphic Encryption**  
 **Meghan Cowan**, Deeksha Dangwal, Armin Alaghi, Caroline Trippel, Vincent T. Lee, and Brandon Reagen  
-*Arxiv preprint* [paper](https://arxiv.org/abs/2101.07841)
+(conditionally accepted) *PLDI 2021* [Arxiv preprint](https://arxiv.org/abs/2101.07841)
 
 
 **Riptide: Fast End-to-End Binarized Neural Networks**   
