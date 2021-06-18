@@ -1,9 +1,10 @@
-I'm a fourth year graduate student in computer science at the University of Washington advised by Luis Ceze. I am part of the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
+I am a software engineer at Microsoft Research in the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group. 
+I received my PhD in computer science at the University of Washington where I was advised by Luis Ceze, and worked in the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
 
 ### Publications
 **Porcupine: A Synthesizing Compiler for Vectorized Homomorphic Encryption**  
 **Meghan Cowan**, Deeksha Dangwal, Armin Alaghi, Caroline Trippel, Vincent T. Lee, and Brandon Reagen  
-(conditionally accepted) *PLDI 2021* [Arxiv preprint](https://arxiv.org/abs/2101.07841)
+PLDI 2021 [paper](docs/porcupine-pldi-2021.pdf)
 
 
 **Riptide: Fast End-to-End Binarized Neural Networks**   
