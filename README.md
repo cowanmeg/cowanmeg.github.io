@@ -1,4 +1,4 @@
-I am a software engineer at Microsoft Research in the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group. 
+I am a software engineer at Microsoft Research in the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group. 
 I received my PhD in computer science at the University of Washington where I was advised by Luis Ceze, and worked in the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
 
 ### Publications
