@@ -1,4 +1,4 @@
-I am a software engineer at Google. 
+I am a software engineer at NVIDIA. 
 I received my PhD in computer science at the University of Washington where I was advised by Luis Ceze, and worked in the [Sampa](https://sampa.cs.washington.edu/new/index.html) and [Sampl](http://sampl.cs.washington.edu/) labs.
 
 ### Publications 
